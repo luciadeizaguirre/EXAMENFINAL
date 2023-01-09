@@ -1,6 +1,4 @@
 from collections import Counter
-
-
 class NodeTree(object):
     def _init_(self, left=None, right=None):
         self.left = left
